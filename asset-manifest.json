@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/angadgit/texUtils_react.git/static/css/main.abd64e84.css",
+    "main.js": "/angadgit/texUtils_react.git/static/js/main.c8a74509.js",
+    "static/js/787.cfb0b588.chunk.js": "/angadgit/texUtils_react.git/static/js/787.cfb0b588.chunk.js",
+    "index.html": "/angadgit/texUtils_react.git/index.html",
+    "main.abd64e84.css.map": "/angadgit/texUtils_react.git/static/css/main.abd64e84.css.map",
+    "main.c8a74509.js.map": "/angadgit/texUtils_react.git/static/js/main.c8a74509.js.map",
+    "787.cfb0b588.chunk.js.map": "/angadgit/texUtils_react.git/static/js/787.cfb0b588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.c8a74509.js"
+  ]
+}
